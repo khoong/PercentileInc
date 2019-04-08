@@ -1,0 +1,10 @@
+C:\temp\RFirst\WebApi\RiskFirst.Percentile\bin\Debug\netcoreapp2.1\RiskFirst.Percentile.deps.json
+C:\temp\RFirst\WebApi\RiskFirst.Percentile\bin\Debug\netcoreapp2.1\RiskFirst.Percentile.runtimeconfig.json
+C:\temp\RFirst\WebApi\RiskFirst.Percentile\bin\Debug\netcoreapp2.1\RiskFirst.Percentile.runtimeconfig.dev.json
+C:\temp\RFirst\WebApi\RiskFirst.Percentile\bin\Debug\netcoreapp2.1\RiskFirst.Percentile.dll
+C:\temp\RFirst\WebApi\RiskFirst.Percentile\obj\Debug\netcoreapp2.1\RiskFirst.Percentile.csproj.CoreCompileInputs.cache
+C:\temp\RFirst\WebApi\RiskFirst.Percentile\obj\Debug\netcoreapp2.1\RiskFirst.Percentile.AssemblyInfoInputs.cache
+C:\temp\RFirst\WebApi\RiskFirst.Percentile\obj\Debug\netcoreapp2.1\RiskFirst.Percentile.AssemblyInfo.cs
+C:\temp\RFirst\WebApi\RiskFirst.Percentile\bin\Debug\netcoreapp2.1\RiskFirst.Percentile.pdb
+C:\temp\RFirst\WebApi\RiskFirst.Percentile\obj\Debug\netcoreapp2.1\RiskFirst.Percentile.dll
+C:\temp\RFirst\WebApi\RiskFirst.Percentile\obj\Debug\netcoreapp2.1\RiskFirst.Percentile.pdb
